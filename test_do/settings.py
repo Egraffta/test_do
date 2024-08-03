@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-r^0*@(&0u+=fx7&mu!o_c75v3y77=$kn&xb@y$5k((uo*--uig
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dolphin-app-ltyxp.ondigitalocean.app']
 
 
 # Application definition
